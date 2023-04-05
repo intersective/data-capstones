@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-analytics-micro-capstone",
+  "private_key_id": "6fa768493f5436ccfad48038ff31e75e5e1df940",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2Z5MSMkQHRLVX\nTXfYd9z3jjkcTFOOdDWh3M7uTDMhviQhwdEGxUKnjaw/d5rqwVZ79NWSDrP04UY6\nYpd9GpvJZFsd9h3aGB4w1q9MmcJwWPhRvdPHUf6TazvemRbXIh97KMzPjeg23doH\nIVLwAyYxJlyn/QoSFunJQ52bK666Y16/qkBWq/H22i+fQGFgDnusDByYdq5gd4e0\nlCzP+aFMpJz0KTy0vmVAx79iMyC6X9B0+iXBdyR/sRskjhAQ6micdBkKiqVguQ/t\n5hG2ugEWa3+/EVoq0IPsGOnIs5V81vMEq2QPZncIX4LDKa8i0DIRv2/FdS6YMuMG\nZIuA/NSTAgMBAAECggEABbYQgM1aG/AmzWj7i6eVH5swZpZtN1SkKUFEqWlxYGkX\nsIblCJU8lQp2jjYsf5U2JANyfHRBZjV3gXR80cn3fsLJp5KBNMb0iwrtyjQ2RlZC\n0CxlaSREGFGPOlUIxguneK+6WfVThARGQ1rjwegXVgqhdBEUM6TMBSU81hL0EZnl\nSsjEQYhCzFfDcuEF6pLcFFumh1ib2I4udnZmBklVM4OqJpaaTny/6ADuw6gIqVAq\nhJgSEjxc5A43/BrvQQSOwxLiqbvx+Gjv43EB+yNQn7zcvgDmQpr59iYUT/NfEOYB\nDXMg6FnyatxC+/q6RZoC0YgGPRWgqJJ1xdqUaQGjIQKBgQDyNSrW0CwwZH+TpVyh\ne6fEcXZL4YBF93nqwDm/W66ui0Lh9aY0xrTdc0RgOYNnCDHnDCa4BJD+9NDb9EOB\nqJPPT6HjPgrc0FPbiQ6zIjIxrwj6Ir4PLkq4B8HEZTWN/bqCVQ/lthBa0SR95KQ+\ngo2kLpfSYulKDPXUnLti8RBj/QKBgQDAyp15NRfq6lyhooBYJS1+78PdUMUa6nv9\nL6E6d925wsVT6fUyNgO+GkInMdGelKI0qt+SYMZRZ45m0hw6FAbIQSNVqL4yz+hp\nPk31xEZ3sY3gkyNahJovjoDB1E++GywqZDti96uY3xFeqej20qBRj/Y9bwntwD7C\nhY/suxVXzwKBgDk7cvn7itWMidDbnD3UOFpk7S0VBfiCd96OuZaMFYTNB2rZXwLN\niWNin1+Vd4VbHF+aMXP+MDzuoIO4/lKfAP5VtM07ldmDqK0Rf9W4WOAAmkBxATQZ\nHjLKMnEz8SmyMOYnL3B6SvcKwHK3GlBjDREkqV9fW/zRfy1UM7s3d0YJAoGATiHP\nMBAUYWAZqmfxG8f1aDxDZK4XM5FULoffD5MEiQQmdJucg3zgh2qc5MWL7njORAn8\nEZamyNbvHzyHtAHpvb6oU07Pxkf8KKrXbYLeDCQpG5qF+WlEE4HtLKCesKzSeVul\ntbYqFQpSP8scXut9jZCKettFatU+mhcG/SnUvIECgYEArRlgdBAnga5diMKG/rOV\nEGKC8Dibc1HV5eyw0FxDIwuBDpTdIii9/TM9LQL8AIdajeDsxqIHins1ek8S0YJq\n23vMNPQ9RQH/Sq8T3Oj4GHQHtNV6kwA6OpZUFmOhGwMACAwk9SyOku/aoF0Bp9x/\n0EhjZPrMnvK+xEOOSLXb7ek=\n-----END PRIVATE KEY-----\n",
+  "client_email": "apiaccount@data-analytics-micro-capstone.iam.gserviceaccount.com",
+  "client_id": "109314424430670541071",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apiaccount%40data-analytics-micro-capstone.iam.gserviceaccount.com"
+}
