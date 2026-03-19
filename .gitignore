@@ -1,3 +1,8 @@
 .cred*
 wip/*
 wip
+dist/
+content/
+.jupyterlite.doit.db
+*.pyc
+__pycache__/
